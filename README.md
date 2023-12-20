@@ -8,6 +8,7 @@ The model utilizes natural language processing techniques to analyze and classif
 
 ### Files Included
 
-- **Jupyter Notebook**: Details the steps taken to build and train the sentiment analysis model.
+- **ipynb file**: Details the steps taken to build and train the sentiment analysis model.
+- **app.py**: Streamlit app using the model for sentiment analysis deployment.
 - **Dataset**: Contains the IMDB dataset used for training and testing the model. [Link to Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/download?datasetVersionNumber=1)
 - **Pickle File**: Serialized model stored for convenient usage or deployment.
