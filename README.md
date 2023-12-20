@@ -9,5 +9,5 @@ The model utilizes natural language processing techniques to analyze and classif
 ### Files Included
 
 - **Jupyter Notebook**: Details the steps taken to build and train the sentiment analysis model.
-- **Dataset**: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/download?datasetVersionNumber=1
+- **Dataset**:  [Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/download?datasetVersionNumber=1)
 - **Pickle File**: Serialized model stored for convenient usage or deployment.
